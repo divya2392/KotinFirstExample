@@ -57,9 +57,9 @@ fun main(args: Array<String>) {
     }while (x>10)
 */
 
-   /* loop@ for (i in 1..10){
+  /* loop@ for (i in 1..10){
         for (j in 1..10){
-            if (j % i=0){
+            if (j % i==0){
                 break@loop
             }
         }
