@@ -29,7 +29,7 @@ fun main(args: Array<String>) {
 
     /*for (e in 10..1)
     {
-        println(e)
+        println(e) // Not execute!!
     }*/
 
     for(f in 10 downTo 1 step 2)
@@ -50,16 +50,18 @@ fun main(args: Array<String>) {
         println(i) //9876543210
     }
 
-    /*do {
-        var x=10
+    var x=10
+    do {
         x--
-        println(x)
-    }while (x>10)
-*/
+        println(x) //9876543210
+    }while (x>0)
 
-  /* loop@ for (i in 1..10){
+/*
+   loop@ for (i in 1..10){
         for (j in 1..10){
             if (j % i==0){
+            println(i)
+            println(j)
                 break@loop
             }
         }
