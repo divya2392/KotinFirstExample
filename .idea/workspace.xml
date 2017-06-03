@@ -65,11 +65,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DefaultNamedFunc.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DefaultNamedFunc.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/functions/DefaultNamedFunc.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="45" column="76" lean-forward="false" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
+            <state relative-caret-position="225">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UnlimitedParaFunc.kt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/functions/UnlimitedParaFunc.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -114,6 +124,7 @@
         <option value="$PROJECT_DIR$/src/basics/ImportTest.kt" />
         <option value="$PROJECT_DIR$/src/functions/functions.kt" />
         <option value="$PROJECT_DIR$/src/functions/DefaultNamedFunc.kt" />
+        <option value="$PROJECT_DIR$/src/functions/UnlimitedParaFunc.kt" />
       </list>
     </option>
   </component>
@@ -121,9 +132,9 @@
     <treeState />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="800" />
+    <option name="x" value="822" />
     <option name="y" value="23" />
-    <option name="width" value="1120" />
+    <option name="width" value="1098" />
     <option name="height" value="977" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -226,20 +237,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.functions.DefaultNamedFuncKt">
-    <configuration default="false" name="basics.LoopsAndRangesKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="basics.LoopsAndRangesKt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="KotinFirstExample" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Kotlin.functions.UnlimitedParaFuncKt">
     <configuration default="false" name="basics.ConditinalsKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="basics.ConditinalsKt" />
@@ -282,6 +280,19 @@
     <configuration default="false" name="functions.DefaultNamedFuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="functions.DefaultNamedFuncKt" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="KotinFirstExample" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="functions.UnlimitedParaFuncKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="functions.UnlimitedParaFuncKt" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -497,19 +508,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
-      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.ConditinalsKt" />
-      <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ImportTestKt" />
-      <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-      <item index="4" class="java.lang.String" itemvalue="Kotlin.functions.DefaultNamedFuncKt" />
+      <item index="0" class="java.lang.String" itemvalue="Kotlin.basics.ConditinalsKt" />
+      <item index="1" class="java.lang.String" itemvalue="Kotlin.basics.ImportTestKt" />
+      <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+      <item index="3" class="java.lang.String" itemvalue="Kotlin.functions.DefaultNamedFuncKt" />
+      <item index="4" class="java.lang.String" itemvalue="Kotlin.functions.UnlimitedParaFuncKt" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Kotlin.functions.DefaultNamedFuncKt" />
-        <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
-        <item index="2" class="java.lang.String" itemvalue="Kotlin.basics.ImportTestKt" />
-        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.ConditinalsKt" />
-        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.LoopsAndRangesKt" />
+        <item index="0" class="java.lang.String" itemvalue="Kotlin.functions.UnlimitedParaFuncKt" />
+        <item index="1" class="java.lang.String" itemvalue="Kotlin.functions.DefaultNamedFuncKt" />
+        <item index="2" class="java.lang.String" itemvalue="Kotlin.functions.FunctionsKt" />
+        <item index="3" class="java.lang.String" itemvalue="Kotlin.basics.ImportTestKt" />
+        <item index="4" class="java.lang.String" itemvalue="Kotlin.basics.ConditinalsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +538,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="800" y="23" width="1120" height="977" extended-state="0" />
+    <frame x="822" y="23" width="1098" height="977" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -539,13 +550,13 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5039083" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978156" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4158192" sideWeight="0.49609172" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4158192" sideWeight="0.49609172" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881355" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.052875694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20075758" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24986681" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -701,8 +712,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/functions/DefaultNamedFunc.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="45" column="76" lean-forward="false" selection-start-line="45" selection-start-column="76" selection-end-line="45" selection-end-column="76" />
+        <state relative-caret-position="225">
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/functions/UnlimitedParaFunc.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="21" lean-forward="false" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
           <folding />
         </state>
       </provider>
